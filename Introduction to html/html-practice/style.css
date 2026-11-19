@@ -1,0 +1,43 @@
+.myfiles{
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+h1{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium 200px;
+}
+.box{
+    color: bisque; 
+}
+p{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}.mother-box{
+    background-color: black;
+    width: 500px;
+    height: 500px;
+}
+.box1{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+.box2{
+   background-color:  blueviolet;
+    width: 100px;
+    height: 100px;
+}
+.box3{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
+.box4{
+    background-color: beige;
+    width: 100px;
+    height: 100px;
+}
